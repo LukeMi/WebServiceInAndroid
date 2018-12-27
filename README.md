@@ -1,0 +1,2 @@
+# WebServiceInAndroid
+use ksoap lib 
